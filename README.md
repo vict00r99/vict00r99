@@ -97,7 +97,7 @@ Give this to any AI → Get consistent, reliable implementations.
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: ([add your LinkedIn](https://www.linkedin.com/in/victorpilestemporal/))
+- 💼 LinkedIn: (https://www.linkedin.com/in/victorpilestemporal/)
 
 Open to collaboration on DevOps tools, AI development workflows, and open source projects.
 
