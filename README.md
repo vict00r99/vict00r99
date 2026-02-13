@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Víctor Piles
+# 👋 Hi, I'm Victor Piles
 
 **Director of Engineering** | Former DevOps Lead | AI & Open Source Enthusiast
 
