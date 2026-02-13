@@ -40,7 +40,6 @@ Building resilient systems and exploring how AI transforms software development.
 
 ## 🌟 Current Focus
 
-- 🗿 **[Runestone](https://github.com/vict00r99/runestone)** - YAML specification format for consistent AI code generation
 - 🤖 Building AI-assisted development workflows with agents.md and MCP
 - 🔧 Exploring multi-agent systems for code quality and automation
 - 📚 Bridging DevOps culture with AI-powered developer tools
@@ -54,33 +53,6 @@ Building resilient systems and exploring how AI transforms software development.
 - **DevOps Culture** - Breaking silos, building empathy between dev and ops
 - **Standards Matter** - FIWARE, OpenAPI, and open specs enable interoperability
 - **Continuous Learning** - Engineering leadership requires staying hands-on
-
----
-
-## 🎯 Featured Project
-
-### 🗿 [Runestone](https://github.com/vict00r99/runestone)
-
-A YAML-based specification format that solves the chaos of AI code generation.
-
-**The Problem:** AI generates different code every time - no tests, no consistency, no contract.
-
-**The Solution:** Write a `.rune` spec once → Generate consistent, tested, documented code forever.
-
-**Integrates with:** Claude Code, agents.md, MCP servers, Claude Projects
-```yaml
-# Example: validate_email.rune
-RUNE: validate_email
-SIGNATURE: def validate_email(email: str) -> tuple[bool, str]
-BEHAVIOR:
-  - WHEN email is empty THEN return (False, "Email cannot be empty")
-  - WHEN email matches RFC 5322 THEN return (True, "Valid")
-TESTS:
-  - validate_email('user@example.com') == (True, "Valid")
-  - validate_email('') == (False, "Email cannot be empty")
-```
-
-Give this to any AI → Get consistent, reliable implementations.
 
 ---
 
