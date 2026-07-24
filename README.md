@@ -67,10 +67,6 @@ Building resilient systems and exploring how AI transforms software development.
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 LinkedIn: (https://www.linkedin.com/in/victorpilestemporal/)
-
 Open to collaboration on DevOps tools, AI development workflows, and open source projects.
 
 ---
